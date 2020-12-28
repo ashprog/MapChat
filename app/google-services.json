@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710450804636",
+    "firebase_url": "https://mapchat-5acc3.firebaseio.com",
+    "project_id": "mapchat-5acc3",
+    "storage_bucket": "mapchat-5acc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710450804636:android:70f054f75538417cc23a59",
+        "android_client_info": {
+          "package_name": "in.ashprog.mapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710450804636-13qqk1c6jsakt04tr0tip6f70vsl6rif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfDjfAj5FoOiebpA6Pr-m2PPjAyaMHO_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710450804636-13qqk1c6jsakt04tr0tip6f70vsl6rif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

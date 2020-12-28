@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/profileItem"
+            android:icon="@drawable/ic_account_circle_white_24dp"
+            android:title="Update Profile" />
+        <item
+            android:id="@+id/discoverableItem"
+            android:icon="@drawable/ic_person_pin_circle_white_24dp"
+            android:title="Discoverable"
+            app:actionLayout="@layout/switch_item"
+            app:showAsAction="always" />
+        <item
+            android:id="@+id/logoutItem"
+            android:icon="@drawable/ic_logout_white_24dp"
+            android:title="Log Out" />
+    </group>
+
+</menu>
